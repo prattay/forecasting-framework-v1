@@ -19,7 +19,7 @@ This repository provides a robust, entity-agnostic forecasting pipeline for time
 ### 1. Open in Codespaces or clone locally
 
 ```bash
-git clone https://github.com/YOURUSERNAME/modular-forecasting-pipeline.git
+
 cd modular-forecasting-pipeline
 ```
 
@@ -589,6 +589,3 @@ def plot_forecasts(df, forecasts, config):
 
 ---
 
-**Just copy these files into your repo, commit, and open in Codespaces or run locally!**  
-If you want this on a public GitHub repo, you can create a new repo and upload these files directly, or use [GitHub CLI](https://cli.github.com/) to initialize and push your repo.  
-Let me know if you want a zipped copy or further automation!
